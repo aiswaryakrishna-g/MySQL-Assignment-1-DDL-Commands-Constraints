@@ -1,7 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33024940/README.md)
 # MySQL-Assignment-1-DDL-Commands-Constraints
-MySQL Assignment 1 – DDL Commands &amp; Constraints
-# MySQL Assignment 1: DDL Commands & Constraints
 
 A beginner-friendly MySQL project that builds an **Employee Database** from scratch. It covers the core DDL commands (`CREATE`, `ALTER`, `RENAME`, `TRUNCATE`, `DROP`) and the main table constraints (`PRIMARY KEY`, `FOREIGN KEY`, `UNIQUE`, `NOT NULL`, `CHECK`, `DEFAULT`, `AUTO_INCREMENT`).
 
